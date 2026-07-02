@@ -42,9 +42,9 @@ The project allows users to register and log in securely. Based on the user role
 3. Import the database into phpMyAdmin.
 4. Open the project in your browser using:
 
-```
+
 http://localhost/student_auth-advanced/login.php
-```
+
 
 ## Internship Task
 
